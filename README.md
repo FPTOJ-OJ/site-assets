@@ -1,2 +1,2 @@
 # site-assets
-DMOJ site assets.
+FPTOJ site assets.
